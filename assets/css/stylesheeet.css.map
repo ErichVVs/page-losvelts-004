@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,CAAC,CAAA;EACG,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,IAAI;CACd;;ACRD,AAAA,cAAc,CAAC;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,uBAAuB;EACzC,eAAe,EAAE,KAAK;EACtB,iBAAiB,EAAE,SAAS;EAC5B,mBAAmB,EAAE,MAAM;CAC9B",
+    "sources": [
+        "../scss/stylesheeet.scss",
+        "../scss/_reset.scss",
+        "../scss/_navbar.scss"
+    ],
+    "names": [],
+    "file": "stylesheeet.css"
+}
