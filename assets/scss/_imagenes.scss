@@ -1,0 +1,17 @@
+.img{
+    transition: all 1s;
+  }
+  
+  .img:hover{
+    width: 300px;
+    transform: translate(0px, -20px);
+  }
+
+  .img2{
+    transition: all 1s;
+  }
+  
+  .img2:hover{
+    width: 640px;
+    transform: translate(0px, -20px);
+  }
