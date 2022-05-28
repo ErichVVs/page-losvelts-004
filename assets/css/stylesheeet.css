@@ -22,17 +22,17 @@ body {
 }
 
 .boton {
-  background-color: #f08cc6;
+  background-color: black;
   border: 0;
   padding: 5px 10px;
-  border-radius: 20px;
+  border-radius: 5px;
   color: #fff;
   margin: 10px;
   width: 100px;
 }
 
 .boton:hover {
-  background-color: #80c27e;
+  background-color: #48aa74;
 }
 
 .img {
