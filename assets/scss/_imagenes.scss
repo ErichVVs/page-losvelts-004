@@ -1,5 +1,5 @@
 .img{
-    transition: all 1s;
+    transition: all .5s;
   }
   
   .img:hover{
@@ -8,10 +8,11 @@
   }
 
   .img2{
-    transition: all 1s;
+    transition: all .5s;
   }
   
   .img2:hover{
     width: 640px;
     transform: translate(0px, -20px);
+    
   }
