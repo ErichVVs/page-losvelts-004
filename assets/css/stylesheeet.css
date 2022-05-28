@@ -5,17 +5,22 @@
 
 a {
   text-decoration: none;
-  color: #000;
+  color: #f80606;
 }
 
 body {
   overflow-x: hidden;
 }
 
+footer {
+  background-color: #58b4c2;
+  color: whitesmoke;
+}
+
 .header-inicio {
   width: 100%;
   height: 100vh;
-  background-image: url(../img/FONDOROSSA-min.jpg);
+  background-image: url(../img/F1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
