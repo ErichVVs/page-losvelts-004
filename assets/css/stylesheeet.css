@@ -5,7 +5,6 @@
 
 a {
   text-decoration: none;
-  color: #f80606;
 }
 
 body {
@@ -26,7 +25,7 @@ footer {
   background-position: center;
 }
 
-.boton {
+.boton, .boton-t {
   background-color: black;
   border: 0;
   padding: 5px 10px;
@@ -36,8 +35,17 @@ footer {
   width: 100px;
 }
 
-.boton:hover {
+.boton:hover, .boton-t:hover {
   background-color: #48aa74;
+}
+
+.boton-t {
+  background-color: #58b4c2;
+  border-radius: 1px;
+}
+
+.boton-t:hover {
+  background-color: #9da7a1;
 }
 
 .img {
