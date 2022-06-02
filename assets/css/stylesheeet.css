@@ -65,4 +65,8 @@ footer {
   width: 640px;
   transform: translate(0px, -20px);
 }
+
+.descripcion {
+  text-align: justify;
+}
 /*# sourceMappingURL=stylesheeet.css.map */
